@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation";
-import { MapPin, Briefcase, Github, Linkedin, Mail } from "lucide-react";
+import { MapPin, Briefcase, Mail } from "lucide-react";
+import { GithubIcon, LinkedinIcon } from "./SocialIcons";
 import profileImg from "@/assets/profile.jpg";
 
 const HeroSection = () => {

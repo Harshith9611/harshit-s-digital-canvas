@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { ExternalLink, Github, CheckCircle } from "lucide-react";
+import { ExternalLink, CheckCircle } from "lucide-react";
+import { GithubIcon } from "./SocialIcons";
 
 const projects = [
   {

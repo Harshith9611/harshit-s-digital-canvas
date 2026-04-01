@@ -1,4 +1,5 @@
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Mail } from "lucide-react";
+import { GithubIcon, LinkedinIcon } from "./SocialIcons";
 
 const Footer = () => (
   <footer className="border-t border-border py-8 px-4">
