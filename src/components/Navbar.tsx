@@ -34,12 +34,8 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <a href="#hero" className="flex-shrink-0">
-            <img
-              src="https://tapportfolio.lovable.app/assets/logo-CxDGoOCE.png"
-              alt="TAP Academy"
-              className="h-9 w-auto"
-            />
+          <a href="#hero" className="flex-shrink-0 text-lg font-bold text-foreground">
+            Portfolio
           </a>
 
           {/* Desktop Links */}
