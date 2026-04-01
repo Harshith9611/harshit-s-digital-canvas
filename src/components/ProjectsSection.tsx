@@ -105,7 +105,7 @@ const ProjectsSection = () => {
                       rel="noopener noreferrer"
                       className="flex items-center gap-1 text-sm text-muted-foreground hover:text-primary transition-colors"
                     >
-                      <Github size={14} /> Code
+                      <GithubIcon size={14} /> Code
                     </a>
                   )}
                 </div>

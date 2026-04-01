@@ -47,8 +47,8 @@ const HeroSection = () => {
             {/* Social */}
             <div className="flex items-center justify-center lg:justify-start gap-3">
               {[
-                { icon: <Github size={18} />, href: "https://github.com/Harshith9611" },
-                { icon: <Linkedin size={18} />, href: "https://www.linkedin.com/in/harshith-yadav-dev/" },
+                { icon: <GithubIcon size={18} />, href: "https://github.com/Harshith9611" },
+                { icon: <LinkedinIcon size={18} />, href: "https://www.linkedin.com/in/harshith-yadav-dev/" },
                 { icon: <Mail size={18} />, href: "mailto:harshithyadav662@gmail.com" },
               ].map((s, i) => (
                 <a
